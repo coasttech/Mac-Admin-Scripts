@@ -5,7 +5,7 @@
 #Script Name: install_Rosetta_2.sh
 #By:  Jeremy Desaulniers / Created:  7/8/2021
 #
-#Description: Script to see if Rosetta 2 if not than install Rosetta 2
+#Description: Script to see if Rosetta 2 is installed, if not than install Rosetta 2
 #
 ##############
 
