@@ -11,7 +11,7 @@
 
 if [[ -f "/Library/Apple/System/Library/LaunchDaemons/com.apple.oahd.plist" ]]; then
 	
-	echo "<result>Installed<result>"
+	echo "Installed"
 	
 else
 
